@@ -14,7 +14,7 @@ Negative Score (which is how many angry words are in the tweet), and the Net Sco
 
 '''
 # Run Project
-git clone https://github.com/ratulhasanshaon/Sentiment_Classifier.git
-open project folder in your IDE
-make sure you have python installed in your computer
-run sentiment_classifier.py
+- git clone https://github.com/ratulhasanshaon/Sentiment_Classifier.git
+- open project folder in your IDE
+- make sure you have python installed in your computer
+- run sentiment_classifier.py
